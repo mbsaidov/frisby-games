@@ -1,0 +1,70 @@
+[12-May-2015 18:25:51 UTC] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/Connections/frisby.php on line 9
+[12-May-2015 18:25:51 UTC] PHP Fatal error:  Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/Connections/frisby.php on line 9
+[13-May-2015 17:11:28 UTC] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/Connections/frisby.php on line 9
+[13-May-2015 17:11:28 UTC] PHP Fatal error:  Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/Connections/frisby.php on line 9
+[13-May-2015 17:11:33 UTC] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/Connections/frisby.php on line 9
+[13-May-2015 17:11:33 UTC] PHP Fatal error:  Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/Connections/frisby.php on line 9
+[13-May-2015 18:34:41 UTC] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/Connections/frisby.php on line 9
+[13-May-2015 18:34:41 UTC] PHP Fatal error:  Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/Connections/frisby.php on line 9
+[13-May-2015 18:41:31 UTC] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/Connections/frisby.php on line 9
+[13-May-2015 18:41:31 UTC] PHP Fatal error:  Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/Connections/frisby.php on line 9
+[13-May-2015 18:51:48 UTC] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/frisby/public_html/functions.php:2) in /home/frisby/public_html/header.php on line 5
+[13-May-2015 18:51:48 UTC] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/frisby/public_html/functions.php:2) in /home/frisby/public_html/header.php on line 5
+[13-May-2015 18:56:45 UTC] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/frisby/public_html/functions.php:2) in /home/frisby/public_html/header.php on line 5
+[13-May-2015 18:56:45 UTC] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/frisby/public_html/functions.php:2) in /home/frisby/public_html/header.php on line 5
+[13-May-2015 18:58:15 UTC] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/frisby/public_html/functions.php:2) in /home/frisby/public_html/header.php on line 4
+[13-May-2015 18:58:15 UTC] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/frisby/public_html/functions.php:2) in /home/frisby/public_html/header.php on line 4
+[13-May-2015 18:58:20 UTC] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/frisby/public_html/functions.php:2) in /home/frisby/public_html/header.php on line 4
+[13-May-2015 18:58:20 UTC] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/frisby/public_html/functions.php:2) in /home/frisby/public_html/header.php on line 4
+[16-May-2015 10:59:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 10
+[16-May-2015 11:01:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 10
+[16-May-2015 11:01:29 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 10
+[16-May-2015 11:01:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 10
+[16-May-2015 11:01:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 10
+[16-May-2015 11:01:38 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 10
+[17-May-2015 09:19:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 10
+[17-May-2015 09:19:32 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 10
+[17-May-2015 09:19:34 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 10
+[17-May-2015 09:22:44 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 10
+[17-May-2015 09:23:02 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 10
+[17-May-2015 09:23:04 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 10
+[17-May-2015 09:23:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 10
+[17-May-2015 09:23:18 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 10
+[17-May-2015 09:23:20 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 10
+[17-May-2015 09:25:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 11
+[17-May-2015 09:26:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 12
+[17-May-2015 09:26:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 12
+[17-May-2015 09:27:13 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 12
+[17-May-2015 09:27:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 12
+[17-May-2015 09:28:09 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 12
+[17-May-2015 09:28:11 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 12
+[17-May-2015 09:28:35 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/frisby/public_html/Connections/frisby.php on line 11
+[17-May-2015 09:28:38 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/frisby/public_html/Connections/frisby.php on line 11
+[17-May-2015 09:29:00 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 12
+[17-May-2015 09:29:18 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 11
+[17-May-2015 09:31:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 11
+[17-May-2015 09:31:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 11
+[17-May-2015 09:31:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 11
+[17-May-2015 09:31:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 11
+[17-May-2015 09:35:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/frisby/public_html/ara.php on line 23
+[17-May-2015 09:35:38 UTC] PHP Parse error:  syntax error, unexpected $end in /home/frisby/public_html/ara.php on line 28
+[17-May-2015 09:35:48 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/ara.php on line 11
+[17-May-2015 11:06:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/frisby/public_html/functions.php:2) in /home/frisby/public_html/oyna.php on line 85
+[17-May-2015 11:59:27 UTC] PHP Parse error:  syntax error, unexpected $end in /home/frisby/public_html/kategori.php on line 128
+[17-May-2015 11:59:29 UTC] PHP Parse error:  syntax error, unexpected $end in /home/frisby/public_html/kategori.php on line 128
+[17-May-2015 12:00:27 UTC] PHP Parse error:  syntax error, unexpected $end in /home/frisby/public_html/kategori.php on line 128
+[17-May-2015 12:00:29 UTC] PHP Parse error:  syntax error, unexpected $end in /home/frisby/public_html/kategori.php on line 128
+[17-May-2015 12:02:22 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/frisby/public_html/kategori.php on line 100
+[17-May-2015 12:05:19 UTC] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/frisby/public_html/kategori.php on line 87
+[17-May-2015 12:05:32 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/frisby/public_html/kategori.php on line 100
+[17-May-2015 12:05:53 UTC] PHP Parse error:  syntax error, unexpected $end in /home/frisby/public_html/kategori.php on line 128
+[17-May-2015 12:17:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/frisby/public_html/functions.php:2) in /home/frisby/public_html/oyna.php on line 85
+[17-May-2015 12:19:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/frisby/public_html/functions.php:2) in /home/frisby/public_html/oyna.php on line 86
+[17-May-2015 12:21:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/frisby/public_html/functions.php:2) in /home/frisby/public_html/oyna.php on line 86
+[17-May-2015 12:32:17 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/frisby/public_html/oyna.php on line 85
+[17-May-2015 12:33:59 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/frisby/public_html/oyna.php on line 85
+[17-May-2015 12:34:56 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/frisby/public_html/oyna.php on line 85
+[17-May-2015 12:35:41 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/frisby/public_html/oyna.php on line 85
+[17-May-2015 12:36:42 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/frisby/public_html/oyna.php on line 85
+[17-May-2015 12:37:08 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/frisby/public_html/oyna.php on line 85
+[17-May-2015 13:41:11 UTC] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/frisby/public_html/tamekran.php:2) in /home/frisby/public_html/Connections/frisby.php on line 2

@@ -1,0 +1,12 @@
+# Yönlendirmeleri aktif eder
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond $1 !^(css|js|images|inc|lang)
+RewriteEngine on
+ 
+# Yeni bir yönlendirme kuralı ekliyoruz
+RewriteRule ^oyna/([0-9a-zA-Z-_]+)/([0-9]+)/([0-9a-zA-Z-_]+)/$  oyna.php?adi=$1&id=$2&kat=$3 [L,QSA]
+RewriteRule ^oyun/([0-9a-zA-Z-_]+)/([0-9]+)/$  oyun.php?adi=$1&oy_id=$2 [L,QSA]
+RewriteRule ^kategori/([0-9a-zA-Z-_]+)/([0-9]+)/$  kategori.php?id=$1&kat=$2 [L,QSA]
+RewriteRule ^EnCokOynananlar  en-cok-oynananlar.php [L,QSA]
+RewriteRule ^Hesabim  profil.php [L,QSA]
+
