@@ -1,0 +1,81 @@
+[15-May-2015 15:56:47 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/yonetim/index.php on line 48
+[15-May-2015 15:56:47 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/frisby/public_html/yonetim/index.php on line 48
+[15-May-2015 15:56:47 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 49
+[15-May-2015 15:56:47 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/yonetim/index.php on line 50
+[15-May-2015 15:56:47 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/frisby/public_html/yonetim/index.php on line 50
+[15-May-2015 15:56:47 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 51
+[15-May-2015 15:57:54 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/yonetim/index.php on line 48
+[15-May-2015 15:57:54 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/frisby/public_html/yonetim/index.php on line 48
+[15-May-2015 15:57:54 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 49
+[15-May-2015 15:57:54 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/yonetim/index.php on line 50
+[15-May-2015 15:57:54 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/frisby/public_html/yonetim/index.php on line 50
+[15-May-2015 15:57:54 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 51
+[15-May-2015 15:57:58 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/yonetim/index.php on line 48
+[15-May-2015 15:57:58 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/frisby/public_html/yonetim/index.php on line 48
+[15-May-2015 15:57:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 49
+[15-May-2015 15:57:58 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/yonetim/index.php on line 50
+[15-May-2015 15:57:58 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/frisby/public_html/yonetim/index.php on line 50
+[15-May-2015 15:57:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 51
+[15-May-2015 15:58:16 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/yonetim/index.php on line 48
+[15-May-2015 15:58:16 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/frisby/public_html/yonetim/index.php on line 48
+[15-May-2015 15:58:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 49
+[15-May-2015 15:58:16 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/yonetim/index.php on line 50
+[15-May-2015 15:58:16 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/frisby/public_html/yonetim/index.php on line 50
+[15-May-2015 15:58:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 51
+[15-May-2015 15:58:49 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/yonetim/index.php on line 50
+[15-May-2015 15:58:49 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/frisby/public_html/yonetim/index.php on line 50
+[15-May-2015 15:58:49 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 51
+[15-May-2015 15:58:49 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/yonetim/index.php on line 52
+[15-May-2015 15:58:49 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/frisby/public_html/yonetim/index.php on line 52
+[15-May-2015 15:58:49 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 53
+[15-May-2015 15:58:50 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/yonetim/index.php on line 50
+[15-May-2015 15:58:50 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/frisby/public_html/yonetim/index.php on line 50
+[15-May-2015 15:58:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 51
+[15-May-2015 15:58:50 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/yonetim/index.php on line 52
+[15-May-2015 15:58:50 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/frisby/public_html/yonetim/index.php on line 52
+[15-May-2015 15:58:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 53
+[15-May-2015 15:59:03 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/yonetim/index.php on line 50
+[15-May-2015 15:59:03 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/frisby/public_html/yonetim/index.php on line 50
+[15-May-2015 15:59:03 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 51
+[15-May-2015 15:59:03 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/yonetim/index.php on line 52
+[15-May-2015 15:59:03 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/frisby/public_html/yonetim/index.php on line 52
+[15-May-2015 15:59:03 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 53
+[15-May-2015 16:00:08 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/yonetim/index.php on line 49
+[15-May-2015 16:00:08 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/frisby/public_html/yonetim/index.php on line 49
+[15-May-2015 16:00:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 50
+[15-May-2015 16:00:08 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/frisby/public_html/yonetim/index.php on line 51
+[15-May-2015 16:00:08 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/frisby/public_html/yonetim/index.php on line 51
+[15-May-2015 16:00:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 52
+[15-May-2015 16:01:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 51
+[15-May-2015 16:01:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 53
+[15-May-2015 16:01:09 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 51
+[15-May-2015 16:01:09 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 53
+[15-May-2015 16:02:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 51
+[15-May-2015 16:02:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 53
+[15-May-2015 16:03:32 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 51
+[15-May-2015 16:03:32 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 53
+[15-May-2015 16:03:34 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 51
+[15-May-2015 16:03:34 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 53
+[15-May-2015 16:03:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 51
+[15-May-2015 16:03:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 53
+[15-May-2015 16:05:00 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 51
+[15-May-2015 16:05:00 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 53
+[15-May-2015 16:05:00 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 55
+[15-May-2015 16:05:02 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 51
+[15-May-2015 16:05:02 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 53
+[15-May-2015 16:05:02 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 55
+[15-May-2015 16:05:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 51
+[15-May-2015 16:05:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 53
+[15-May-2015 16:05:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 55
+[17-May-2015 11:16:20 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 51
+[17-May-2015 11:16:20 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 53
+[17-May-2015 11:16:20 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 55
+[17-May-2015 11:16:20 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 57
+[17-May-2015 11:16:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 51
+[17-May-2015 11:16:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 53
+[17-May-2015 11:16:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 55
+[17-May-2015 11:16:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 57
+[17-May-2015 11:16:29 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 51
+[17-May-2015 11:16:29 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 53
+[17-May-2015 11:16:29 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 55
+[17-May-2015 11:16:29 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/frisby/public_html/yonetim/index.php on line 57
